@@ -4,6 +4,7 @@
 
 I'm a passionate and detail-oriented Software Engineer with a strong background in backend development, AI integration, and data automation using Python. I love building scalable, intelligent systems that solve real-world problems and improve user experiences.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-ikram&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-ikram" /> </p>
 ---
 
 ## 🚀 Tech Stack
